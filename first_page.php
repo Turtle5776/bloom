@@ -15,7 +15,7 @@
  if (effiong == "Yes") {
 	window.alert("You are granted access in to view the lovely pics.");
 } else if (effiong == "No") {
-	window.("C'mon get out of here.");
+	window.alert("C'mon get out of here.");
 }
 
 
