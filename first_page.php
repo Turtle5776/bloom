@@ -15,7 +15,7 @@
  if (effiong == "Yes") {
 	window.alert("You are granted access in to view the lovely pics.");
 } else if (effiong == "No") {
-	window.alert("C'mon get out of here.");
+	confirm("C'mon get out of here.");
 }
 
 
@@ -29,8 +29,8 @@ var perimeter = 2(length + width);
 
 var area = length * width;
 
-window.alert("Perimeter: " + length);
-window.alert("Area: " + area);
+confirm("Perimeter: " + perimeter);
+confirm("Area: " + area);
 
 
 </script>
