@@ -9,7 +9,7 @@
     <title>Bloom</title>
     <link href="css/Bloom.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/logo1.png" type="image/x-icon">
     <link rel="STYLESHEET" type="text/css" href="style/fg_membersite.css" />
     <script type='text/javascript' src='scripts/gen_validatorv31.js'></script>
     <link rel="STYLESHEET" type="text/css" href="style/pwdwidget.css" />
